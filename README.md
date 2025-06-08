@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sulagna Mandal</h1>
+<h3 align="center">Data Analyst Enthusiast || Transforming Data into Decisions </h3>
 
-<!--
-**Sulagna24/Sulagna24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m learning **SQL Queries & currently enhancing my skills in data storytelling and dashboard building.**
 
-Here are some ideas to get you started:
+- All of my projects are available at [https://github.com/sulagnamom?tab=repositories](https://github.com/sulagnamom?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- How to reach me **sulagnamandal01@gmail.com**
+
+- Know about my experiences [https://drive.google.com/file/d/1oAqJLg3fu2rxEeDfFmEYx7FxIIF6-X5X/view?usp=sharing](https://drive.google.com/file/d/1oAqJLg3fu2rxEeDfFmEYx7FxIIF6-X5X/view?usp=sharing)
+  
+- Connect with me **www.linkedin.com/in/sulagna-mandal**
+
+
+<h3 align="left">Languages and Tools:</h3>
+- 
