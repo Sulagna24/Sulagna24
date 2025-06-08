@@ -3,7 +3,7 @@
 
 - I’m learning **SQL Queries & currently enhancing my skills in data storytelling and dashboard building.**
 
-- All of my projects are available at [https://github.com/sulagnamom?tab=repositories](https://github.com/sulagnamom?tab=repositories)
+- All of my projects are available at [https://github.com/Sulagna24?tab=repositories](https://github.com/Sulagna24?tab=repositories)
 
 - How to reach me **sulagnamandal01@gmail.com**
 
@@ -12,5 +12,10 @@
 - Connect with me **www.linkedin.com/in/sulagna-mandal**
 
 
-<h3 align="left">Languages and Tools:</h3>
-- 
+<h3 align="left">Skills:</h3>
+- Excel
+- Data Collection & Cleaning
+- Data Analysis with Python and SQL
+- Data Visualisation and storytelling with PowerBi
+
+
